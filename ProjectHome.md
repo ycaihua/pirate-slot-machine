@@ -1,0 +1,1 @@
+An electronic slot-machine , motivated from slot-machines in casinos and game parlours. There are 5 tokens and 3 slots in game play and getting at least 2 common tokens in the 3 given slots is rewarded. "GOOD JOB" for 2 common tokens and "WINNER" for all 3.
